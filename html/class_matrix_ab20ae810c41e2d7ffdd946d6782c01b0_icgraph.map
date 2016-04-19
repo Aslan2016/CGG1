@@ -1,0 +1,8 @@
+<map id="Matrix::getDeterminant" name="Matrix::getDeterminant">
+<area shape="rect" id="node2" href="$namespace_calculator.html#a1a7e3275cc09284c94550af0eaae8e94" title="Calculator::MatrixMore" alt="" coords="363,5,516,32"/>
+<area shape="rect" id="node6" href="$class_matrix.html#a9f36b10f58146bfe940888e346208146" title="Inverses a Matrix. Returns false if the Determinant of a Matrix equals 0. " alt="" coords="208,56,315,83"/>
+<area shape="rect" id="node3" href="$namespace_calculator.html#a222bc2afb4a5861422734c45ebb20ceb" title="Calculator::MatrixMenu" alt="" coords="564,5,720,32"/>
+<area shape="rect" id="node4" href="$namespace_calculator.html#a974ec5c3107fa8b19e99bae572ce152d" title="Calculator::MainMenu" alt="" coords="768,5,916,32"/>
+<area shape="rect" id="node5" href="$_source_8cpp.html#ac0d89b468926bf781a549158fb8af006" title="main" alt="" coords="964,31,1015,57"/>
+<area shape="rect" id="node7" href="$_source_8cpp.html#a6cd88955ddf199474edca7bc7d6bcc07" title="SDL" alt="" coords="619,56,665,83"/>
+</map>

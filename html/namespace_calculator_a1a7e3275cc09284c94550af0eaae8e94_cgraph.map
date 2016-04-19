@@ -1,0 +1,7 @@
+<map id="Calculator::MatrixMore" name="Calculator::MatrixMore">
+<area shape="rect" id="node2" href="$namespace_calculator.html#aa8b16c0df528075ec98cd91edad2579c" title="Calculator::SetMatrix" alt="" coords="207,5,351,32"/>
+<area shape="rect" id="node3" href="$class_matrix.html#a68894809db4fcac1c30808304791178c" title="Prints out a matrix. " alt="" coords="214,56,343,83"/>
+<area shape="rect" id="node4" href="$class_matrix.html#ab20ae810c41e2d7ffdd946d6782c01b0" title="Matrix::getDeterminant" alt="" coords="399,132,553,159"/>
+<area shape="rect" id="node5" href="$class_matrix.html#a350d12361c31ec650e667e8120da7274" title="Transposes a Matrix. " alt="" coords="413,195,539,221"/>
+<area shape="rect" id="node6" href="$class_matrix.html#a9f36b10f58146bfe940888e346208146" title="Inverses a Matrix. Returns false if the Determinant of a Matrix equals 0. " alt="" coords="225,157,332,184"/>
+</map>

@@ -187,7 +187,6 @@ void SDL ()
 		Vector VertexPosition7 = MVPMatrix * CubeVertexPosition7;
 		Vector VertexPosition8 = MVPMatrix * CubeVertexPosition8;
 
-		/*
 		VertexPosition1 = VertexPosition1 / VertexPosition1.w;
 		VertexPosition2 = VertexPosition2 / VertexPosition2.w;
 		VertexPosition3 = VertexPosition3 / VertexPosition3.w;
@@ -196,7 +195,6 @@ void SDL ()
 		VertexPosition6 = VertexPosition6 / VertexPosition6.w;
 		VertexPosition7 = VertexPosition7 / VertexPosition7.w;
 		VertexPosition8 = VertexPosition8 / VertexPosition8.w;
-		*/
 
 		//Sets Vertices position on the screen
 		Vertex1.x = (int) ( VertexPosition1.x + 320.f );

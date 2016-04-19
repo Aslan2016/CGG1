@@ -1,0 +1,6 @@
+<map id="Transformation::Scaling" name="Transformation::Scaling">
+<area shape="rect" id="node2" href="$namespace_transformation.html#adc7f9636e451d0a992ee0081dfb0262a" title="Transformation::Scaling" alt="" coords="212,5,371,32"/>
+<area shape="rect" id="node3" href="$class_matrix.html#a75450b5287f6ef18ecb109862ffb46ea" title="Sets a matrix to be a Scale Matrix. " alt="" coords="419,5,517,32"/>
+<area shape="rect" id="node4" href="$class_matrix.html#a1f6446e74e72d4bc6cccf46f3fbf7536" title="Sets a matrix to be an Identity Matrix. " alt="" coords="565,5,673,32"/>
+<area shape="rect" id="node5" href="$class_matrix.html#a42e03b1db0698d2c6ef433ee4a884334" title="Sets all matrix entries to be zero. " alt="" coords="721,5,848,32"/>
+</map>

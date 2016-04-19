@@ -1,0 +1,23 @@
+<map id="Calculator::MainMenu" name="Calculator::MainMenu">
+<area shape="rect" id="node2" href="$namespace_calculator.html#ae73b91ca1aaeadc5bc25e28af2d7970f" title="Calculator::VectorMenu" alt="" coords="201,157,360,184"/>
+<area shape="rect" id="node13" href="$namespace_calculator.html#a222bc2afb4a5861422734c45ebb20ceb" title="Calculator::MatrixMenu" alt="" coords="203,309,359,336"/>
+<area shape="rect" id="node3" href="$namespace_calculator.html#af28fb9ebb6c9127cebf82122bb695b33" title="Calculator::VectorScalar" alt="" coords="421,157,584,184"/>
+<area shape="rect" id="node6" href="$namespace_calculator.html#a1afa01a4f4fd45864446ed20361257f0" title="Calculator::VectorVector" alt="" coords="421,107,585,133"/>
+<area shape="rect" id="node7" href="$namespace_calculator.html#a756013d58a315588d81fd6b43c3f65c0" title="Calculator::DotCrossProduct" alt="" coords="409,56,596,83"/>
+<area shape="rect" id="node10" href="$namespace_calculator.html#a9b5c28c862be9b959a7aa42ca6dfbe9b" title="Calculator::MagnitudeNormal" alt="" coords="408,208,597,235"/>
+<area shape="rect" id="node4" href="$namespace_calculator.html#add1b5614c4ed06657b001f8e1ed4f06b" title="Calculator::SetVector" alt="" coords="654,157,801,184"/>
+<area shape="rect" id="node5" href="$class_vector.html#a3b1f1a7e525c8203f685cb2af6fbbed0" title="Vector::PrintVector" alt="" coords="661,107,794,133"/>
+<area shape="rect" id="node8" href="$class_vector.html#a32e122851d6bb2abfda5d9d6745946d2" title="Vector::DotProduct" alt="" coords="661,5,794,32"/>
+<area shape="rect" id="node9" href="$class_vector.html#a2abe21a084c335d81428062250e32f06" title="Vector::CrossProduct" alt="" coords="654,56,801,83"/>
+<area shape="rect" id="node11" href="$class_vector.html#a8ed0561ef56ea4656faafbb3e1386999" title="Vector::getMagnitude" alt="" coords="654,259,801,285"/>
+<area shape="rect" id="node12" href="$class_vector.html#a1b06a1b72c9ff81c01961b7d785b0887" title="Vector::NormaliseVector" alt="" coords="645,208,809,235"/>
+<area shape="rect" id="node14" href="$namespace_calculator.html#acdbdb4e8c353fd192db19966aec62b06" title="Calculator::MatrixScalar" alt="" coords="422,309,583,336"/>
+<area shape="rect" id="node17" href="$namespace_calculator.html#a2d157cecf300f720d109027b021df8b5" title="Calculator::MatrixVector" alt="" coords="421,259,584,285"/>
+<area shape="rect" id="node18" href="$namespace_calculator.html#abf4a5dc43ed39835690f11bbbf37bdbf" title="Calculator::MatrixMatrix" alt="" coords="423,360,583,387"/>
+<area shape="rect" id="node19" href="$namespace_calculator.html#a1a7e3275cc09284c94550af0eaae8e94" title="Calculator::MatrixMore" alt="" coords="426,411,579,437"/>
+<area shape="rect" id="node15" href="$namespace_calculator.html#aa8b16c0df528075ec98cd91edad2579c" title="Calculator::SetMatrix" alt="" coords="655,360,799,387"/>
+<area shape="rect" id="node16" href="$class_matrix.html#a68894809db4fcac1c30808304791178c" title="Prints out a matrix. " alt="" coords="663,309,792,336"/>
+<area shape="rect" id="node20" href="$class_matrix.html#ab20ae810c41e2d7ffdd946d6782c01b0" title="Matrix::getDeterminant" alt="" coords="857,500,1012,527"/>
+<area shape="rect" id="node21" href="$class_matrix.html#a350d12361c31ec650e667e8120da7274" title="Transposes a Matrix. " alt="" coords="871,424,998,451"/>
+<area shape="rect" id="node22" href="$class_matrix.html#a9f36b10f58146bfe940888e346208146" title="Inverses a Matrix. Returns false if the Determinant of a Matrix equals 0. " alt="" coords="674,461,781,488"/>
+</map>

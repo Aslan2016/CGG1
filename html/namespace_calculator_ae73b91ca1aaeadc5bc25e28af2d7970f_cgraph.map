@@ -1,0 +1,12 @@
+<map id="Calculator::VectorMenu" name="Calculator::VectorMenu">
+<area shape="rect" id="node2" href="$namespace_calculator.html#af28fb9ebb6c9127cebf82122bb695b33" title="Calculator::VectorScalar" alt="" coords="225,5,388,32"/>
+<area shape="rect" id="node5" href="$namespace_calculator.html#a1afa01a4f4fd45864446ed20361257f0" title="Calculator::VectorVector" alt="" coords="225,56,389,83"/>
+<area shape="rect" id="node6" href="$namespace_calculator.html#a756013d58a315588d81fd6b43c3f65c0" title="Calculator::DotCrossProduct" alt="" coords="213,107,400,133"/>
+<area shape="rect" id="node9" href="$namespace_calculator.html#a9b5c28c862be9b959a7aa42ca6dfbe9b" title="Calculator::MagnitudeNormal" alt="" coords="212,157,401,184"/>
+<area shape="rect" id="node3" href="$namespace_calculator.html#add1b5614c4ed06657b001f8e1ed4f06b" title="Calculator::SetVector" alt="" coords="458,5,605,32"/>
+<area shape="rect" id="node4" href="$class_vector.html#a3b1f1a7e525c8203f685cb2af6fbbed0" title="Vector::PrintVector" alt="" coords="465,56,598,83"/>
+<area shape="rect" id="node7" href="$class_vector.html#a32e122851d6bb2abfda5d9d6745946d2" title="Vector::DotProduct" alt="" coords="465,107,598,133"/>
+<area shape="rect" id="node8" href="$class_vector.html#a2abe21a084c335d81428062250e32f06" title="Vector::CrossProduct" alt="" coords="458,157,605,184"/>
+<area shape="rect" id="node10" href="$class_vector.html#a8ed0561ef56ea4656faafbb3e1386999" title="Vector::getMagnitude" alt="" coords="458,208,605,235"/>
+<area shape="rect" id="node11" href="$class_vector.html#a1b06a1b72c9ff81c01961b7d785b0887" title="Vector::NormaliseVector" alt="" coords="449,259,613,285"/>
+</map>

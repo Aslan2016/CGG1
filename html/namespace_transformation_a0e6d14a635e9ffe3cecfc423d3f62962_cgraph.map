@@ -1,0 +1,5 @@
+<map id="Transformation::RotationY" name="Transformation::RotationY">
+<area shape="rect" id="node2" href="$class_matrix.html#ab1c05ad1b436a144da70577345428af3" title="Sets a matrix to store rotation about Y. " alt="" coords="225,5,348,32"/>
+<area shape="rect" id="node3" href="$class_matrix.html#a1f6446e74e72d4bc6cccf46f3fbf7536" title="Sets a matrix to be an Identity Matrix. " alt="" coords="396,5,504,32"/>
+<area shape="rect" id="node4" href="$class_matrix.html#a42e03b1db0698d2c6ef433ee4a884334" title="Sets all matrix entries to be zero. " alt="" coords="552,5,679,32"/>
+</map>

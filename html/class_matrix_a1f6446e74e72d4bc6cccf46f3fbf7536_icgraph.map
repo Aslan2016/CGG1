@@ -1,0 +1,18 @@
+<map id="Matrix::Identity" name="Matrix::Identity">
+<area shape="rect" id="node2" href="$class_matrix.html#a75450b5287f6ef18ecb109862ffb46ea" title="Sets a matrix to be a Scale Matrix. " alt="" coords="173,81,272,108"/>
+<area shape="rect" id="node4" href="$_source_8cpp.html#a6cd88955ddf199474edca7bc7d6bcc07" title="SDL" alt="" coords="625,233,671,260"/>
+<area shape="rect" id="node8" href="$class_matrix.html#ac9eeccfc5e5220f33cecb93f23ab5ab0" title="Sets a matrix to store rotation about X. " alt="" coords="162,208,283,235"/>
+<area shape="rect" id="node10" href="$class_matrix.html#ab1c05ad1b436a144da70577345428af3" title="Sets a matrix to store rotation about Y. " alt="" coords="161,259,284,285"/>
+<area shape="rect" id="node12" href="$class_matrix.html#a351389c3b7a24d5dd11651dcbfdca909" title="Sets a matrix to store rotation about Z. " alt="" coords="162,309,283,336"/>
+<area shape="rect" id="node14" href="$class_matrix.html#a006bcac9fa5aee666f35c140efd2b55a" title="Sets a matrix to be Translate Matrix. " alt="" coords="163,385,282,412"/>
+<area shape="rect" id="node3" href="$class_matrix.html#acb21b6b849fbf8a8f953ec846b3f07c3" title="Matrix::Scale" alt="" coords="372,5,471,32"/>
+<area shape="rect" id="node6" href="$namespace_transformation.html#adc7f9636e451d0a992ee0081dfb0262a" title="Transformation::Scaling" alt="" coords="342,56,501,83"/>
+<area shape="rect" id="node5" href="$_source_8cpp.html#ac0d89b468926bf781a549158fb8af006" title="main" alt="" coords="785,233,836,260"/>
+<area shape="rect" id="node7" href="$namespace_transformation.html#a8cf261c17e82f8cb89821f0946462e26" title="Transformation::Scaling" alt="" coords="569,56,727,83"/>
+<area shape="rect" id="node9" href="$namespace_transformation.html#ab30fa0dfe7455f97b944e4ae474ddbf0" title="Transformation::RotationX" alt="" coords="336,208,507,235"/>
+<area shape="rect" id="node11" href="$namespace_transformation.html#a0e6d14a635e9ffe3cecfc423d3f62962" title="Transformation::RotationY" alt="" coords="335,259,507,285"/>
+<area shape="rect" id="node13" href="$namespace_transformation.html#a45dc81d0ef585f6fe6fe39ffb721bed2" title="Transformation::RotationZ" alt="" coords="336,309,507,336"/>
+<area shape="rect" id="node15" href="$class_matrix.html#a969ae8b07aefdd9364f2a840df098ae4" title="Matrix::Translate" alt="" coords="362,411,481,437"/>
+<area shape="rect" id="node16" href="$namespace_transformation.html#a2d858e11897067f55e5d5987bad26a07" title="Transformation::Translation" alt="" coords="332,461,511,488"/>
+<area shape="rect" id="node17" href="$namespace_transformation.html#a5c09c5a6a6457dee6e8c4c2ec638acf3" title="Transformation::Translation" alt="" coords="559,461,737,488"/>
+</map>

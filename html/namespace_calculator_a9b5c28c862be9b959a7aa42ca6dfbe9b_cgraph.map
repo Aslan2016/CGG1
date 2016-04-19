@@ -1,0 +1,6 @@
+<map id="Calculator::MagnitudeNormal" name="Calculator::MagnitudeNormal">
+<area shape="rect" id="node2" href="$namespace_calculator.html#add1b5614c4ed06657b001f8e1ed4f06b" title="Calculator::SetVector" alt="" coords="251,5,398,32"/>
+<area shape="rect" id="node3" href="$class_vector.html#a8ed0561ef56ea4656faafbb3e1386999" title="Vector::getMagnitude" alt="" coords="251,56,398,83"/>
+<area shape="rect" id="node4" href="$class_vector.html#a1b06a1b72c9ff81c01961b7d785b0887" title="Vector::NormaliseVector" alt="" coords="243,107,407,133"/>
+<area shape="rect" id="node5" href="$class_vector.html#a3b1f1a7e525c8203f685cb2af6fbbed0" title="Vector::PrintVector" alt="" coords="258,157,391,184"/>
+</map>

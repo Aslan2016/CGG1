@@ -1,0 +1,5 @@
+<map id="Matrix::Scale" name="Matrix::Scale">
+<area shape="rect" id="node2" href="$class_matrix.html#a75450b5287f6ef18ecb109862ffb46ea" title="Sets a matrix to be a Scale Matrix. " alt="" coords="152,5,251,32"/>
+<area shape="rect" id="node3" href="$class_matrix.html#a1f6446e74e72d4bc6cccf46f3fbf7536" title="Sets a matrix to be an Identity Matrix. " alt="" coords="299,5,407,32"/>
+<area shape="rect" id="node4" href="$class_matrix.html#a42e03b1db0698d2c6ef433ee4a884334" title="Sets all matrix entries to be zero. " alt="" coords="455,5,581,32"/>
+</map>

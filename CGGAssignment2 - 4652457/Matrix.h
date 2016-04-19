@@ -14,74 +14,83 @@
 class Matrix
 {
 public:
-	//Matrix array
-	float matrix [ 16 ];
+	
+	float matrix [ 16 ];///<Matrix array
 
-	//Matrix class constructor
-	Matrix ( float _matrixArray [ 16 ] = 0 );
+	Matrix ( float _matrixArray [ 16 ] = 0 );///<Matrix class constructor
 
-	//Matrix class destructor
-	~Matrix ();
+	~Matrix ();///<Matrix class destructor
+	
+	///
+	/// 
+	/// \param Matrix
+	/// \return Matrix
+	///
+	Matrix operator+ ( Matrix _matrix2 ); ///<operator+ overloaded function
 
-	//operator+ overloaded function
-	Matrix operator+ ( Matrix _matrix2 );
-
-	//operator- overloaded function
+	///
+	/// \brief minus a matrix from a matrix
+	/// \param Matrix
+	/// \return Matrix
+	///
+	/// Subtracting each entry of one matrix from each matrix from another
+	///
 	Matrix operator- ( Matrix _matrix2 );
 
-	//operator* overloaded function
+	///operator* overloaded function
 	Matrix operator* ( const float _coefficient );
 
-	//operator/ overloaded function
+	///operator/ overloaded function
 	Matrix operator/ ( const float _coefficient );
 
-	//operator* overloaded function
+	///operator* overloaded function
 	Vector operator* ( const Vector _vector2 );
 
-	//operator* overloaded function
+	///operator* overloaded function
 	Matrix operator* ( const Matrix _matrix2 );
 
-	//operator= overloaded function
+	///operator= overloaded function
 	Matrix operator= ( const float _matrixArray [ 16 ] );
 
-	//Transposes a Matrix
+	///Transposes a Matrix
 	void Transpose ();
 
-	//Returns a Determinant
+	///Returns a Determinant
+	/// \return Determinant
 	float getDeterminant ();
 
-	//Inverses a Matrix. Returns false if the Determinant of a Matrix equals 0
+	///Inverses a Matrix. Returns false if the Determinant of a Matrix equals 0
 	bool Inverse ();
 
-	//Sets all matrix entries to be zero
+	///Sets all matrix entries to be zero
 	void ZeroMatrix ();
 
-	//Sets a matrix to be an Identity Matrix
+	///Sets a matrix to be an Identity Matrix
 	void Identity ();
 
-	//Sets a matrix to be a Perspective Matrix
+	///Sets a matrix to be a Perspective Matrix
 	void Perspective ( float _FOV, float _AspectRatio, float _ZNear, float _ZFar );
 
-	//Sets a matrix to be a Scale Matrix
+	///Sets a matrix to be a Scale Matrix
 	void Scale ( float _XPoint, float _YPoint, float _ZPoint );
 
 	void Scale ( Vector _ScalingFactors );
 
-	//Sets a matrix to store rotation about X
+	///Sets a matrix to store rotation about X
 	void RotationX ( float _RotFactor );
 
-	//Sets a matrix to store rotation about Y
+	///Sets a matrix to store rotation about Y
 	void RotationY ( float _RotFactor );
 
-	//Sets a matrix to store rotation about Z
+	///Sets a matrix to store rotation about Z
 	void RotationZ ( float _RotFactor );
 
-	//Sets a matrix to be Translate Matrix
+	///Sets a matrix to be Translate Matrix
 	void Translate ( float _XPoint, float _YPoint, float _ZPoint );
 
 	void Translate ( Vector _TranslatingFactors );
 
-	//Prints out a matrix
+	///Prints out a matrix
 	void PrintMatrix ();
 };
 
