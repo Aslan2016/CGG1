@@ -5,7 +5,7 @@
 #include "include\SDL.h"
 #include "Calculator.h"
 
-// Module Contents
+// Module Contents COntents
 
 // Declares a function
 void SDL ();
